@@ -1,4 +1,4 @@
-# Predict-Sales-Volume
+# Predict Sales Volume
 
 Given historical sales data of a variety of products, forecast sales volume for new products. Data sets of existing products and new products have selected product information.
 
